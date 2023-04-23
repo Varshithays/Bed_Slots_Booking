@@ -1,2 +1,2 @@
 # Bed_Slots_Booking
-This Project is done using Python with flask framework and mysql .
+Bed_Slots_Booking is a web application developed using Python with Flask framework and MySQL database. The application allows patients and hospitals to book and manage bed slots in hospitals. The interface is designed using HTML, CSS, Bootstrap, and JavaScript to ensure a user-friendly experience. This project is aimed at providing a convenient solution for managing hospital bed availability and streamlining the booking process for patients and healthcare providers.
