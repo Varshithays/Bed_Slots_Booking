@@ -57,5 +57,5 @@ Start the Flask application:
 python main.py
  ```
 **Access the Website:**
-   - Open a web browser and navigate to `http://localhost:5000` to access the Waste Management System.
+   - Open a web browser and navigate to `http://localhost:5000`
 
