@@ -53,4 +53,9 @@ It's essential to keep sensitive information like secret keys and database URLs 
 ### Run the Application
 
 Start the Flask application:
+ ```
+python main.py
+ ```
+**Access the Website:**
+   - Open a web browser and navigate to `http://localhost:5000` to access the Waste Management System.
 
