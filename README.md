@@ -1,11 +1,3 @@
-To make your **Bed Slot Booking System** stand out as much as your other projects, we need to highlight the **Database Management (DBMS)** and **Backend Logic** aspects. Since you used Flask and MySQL, emphasizing "Triggers" and "Stored Procedures" (as seen in your resume) is key here.
-
-Here is a professionally structured **README.md** to copy and paste into your GitHub:
-
----
-
-### **Copy and Paste this into your GitHub README.md:**
-
 ```markdown
 # Hospital Bed Slot Booking System (DBMS)
 
